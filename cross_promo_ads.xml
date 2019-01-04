@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ads>
+    <ad>
+        <title>Title 1</title>
+        <iconUrl></iconUrl>
+        <promoLink></promoLink>
+    </ad>
+    <ad>
+        <title>Title 2</title>
+        <iconUrl></iconUrl>
+        <promoLink></promoLink>
+    </ad>
+    <ad>
+        <title>Title 3</title>
+        <iconUrl></iconUrl>
+        <promoLink></promoLink>
+    </ad>
+</ads>
